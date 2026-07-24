@@ -12,7 +12,7 @@ NC='\033[0m'
 BOLD='\033[1m'
 
 echo -e "${BOLD}${GREEN}╔════════════════════════════════════════╗${NC}"
-echo -e "${BOLD}${GREEN}║   APEX - Installer v4.1               ║${NC}"
+echo -e "${BOLD}${GREEN}║   APEX - Installer v4.1                ║${NC}"
 echo -e "${BOLD}${GREEN}╚════════════════════════════════════════╝${NC}"
 echo
 
