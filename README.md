@@ -1,4 +1,6 @@
 # APEX-SENT
+<img width="2750" height="422" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/7f3c5ed2-7563-4ee9-bbad-eac8bb6972e4" />
+
 # 📡 APEX‑SENT – Wireless Security Audit Framework
 
 **APEX‑SENT** is a professional, menu‑driven wireless security auditing tool built as a Bash script. It simplifies network scanning, handshake capture, and deauthentication attacks – all from a clean, colourful terminal interface.
